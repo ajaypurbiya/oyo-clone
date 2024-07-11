@@ -1,0 +1,11 @@
+{
+  "editor.experimentalInlineEdit.backgroundColoring": true,
+  "editor.experimentalInlineEdit.enabled": true,
+  "editor.inlineCompletionsAccessibilityVerbose": true,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "editor.defaultColorDecorators": true,
+  "jsJsxSnippets.settings.importReactOnTop": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": false,
+  "javascript.preferences.renameMatchingJsxTags": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": false
+}
